@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dz-13"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.927">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testRegisterPartnership"
+                time="0.036"
+                classname="person.PersonTests">
+            </testcase>
+            <testcase
+                name="testRegisterPartnership"
+                time="0.891"
+                classname="person.PersonTests">
+            </testcase>
+</testsuite>
